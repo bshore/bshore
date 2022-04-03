@@ -1,23 +1,29 @@
-# About:
+# About
 
-- TODO
-<!--
-**bshore/bshore** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Corporate Dev building APIs, CLIs, and UIs on weekdays, moving Kanban tickets from left to right.
 
-Here are some ideas to get you started:
+In my free time I write code for stuff that interests me. My two most used languages are Golang & Javascript, but I have years of experience with Python, a little C#, and even less Java... I try to avoid Java... (though it's not always possible :joy:)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-  -->
+My pinned repositories are my most recent (public) pet projects. I get random bursts of inspiration to learn or experiment and it tends to be all over the place.
 
-# Stats
+# Lifetime Stats
 
-[![bshore's GitHub stats](https://github-readme-stats-j68jhicjt-bshore.vercel.app/api?username=bshore&count_private=true&theme=dark&show_icons=true&hide_title=true&hide_rank=true&include_all_commits=true)](https://github.com/bshore/github-readme-stats)
+<!-- [![bshore's GitHub stats](https://github-readme-stats-j68jhicjt-bshore.vercel.app/api?username=bshore&count_private=true&theme=dark&show_icons=true&hide_title=true&hide_rank=true&include_all_commits=true)](https://github.com/bshore/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats-j68jhicjt-bshore.vercel.app/api/top-langs/?username=bshore&theme=dark)](https://github.com/bshore/github-readme-stats)
+[![Top Langs](https://github-readme-stats-j68jhicjt-bshore.vercel.app/api/top-langs/?username=bshore&theme=dark&hide_title=true)](https://github.com/bshore/github-readme-stats) -->
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img src="https://github-readme-stats-j68jhicjt-bshore.vercel.app/api?username=bshore&count_private=true&theme=dark&show_icons=true&hide_title=true&include_all_commits=true&hide_rank=true" width="350px" />
+</a><br/>
+<i>Note: Languages below are populated from my personal GitHub and should not be interpreted as my <u>only</u> languages.</i>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img src="https://github-readme-stats-j68jhicjt-bshore.vercel.app/api/top-langs/?username=bshore&theme=dark&hide_title=true&layout=compact"/>
+</a>
+
+# Codewars
+
+Website that offers code challenges to rank up in a variety of programming languages. ([about codewars](https://www.codewars.com/about))
+
+<a href="https://www.codewars.com/users/bshore">
+  <img src="https://www.codewars.com/users/bshore/badges/large">
+</a>
