@@ -20,4 +20,4 @@ Here are some ideas to get you started:
 
 [![bshore's GitHub stats](https://github-readme-stats-j68jhicjt-bshore.vercel.app/api?username=bshore&count_private=true&theme=dark&show_icons=true&hide_title=true&hide_rank=true&include_all_commits=true)](https://github.com/bshore/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats-j68jhicjt-bshore.vercel.app/api/top-langs/?username=bshore)](https://github.com/bshore/github-readme-stats)
+[![Top Langs](https://github-readme-stats-j68jhicjt-bshore.vercel.app/api/top-langs/?username=bshore&theme=dark)](https://github.com/bshore/github-readme-stats)
