@@ -1,5 +1,6 @@
-### Hi there 👋
+# About:
 
+- TODO
 <!--
 **bshore/bshore** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -13,4 +14,10 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+  -->
+
+# Stats
+
+[![bshore's GitHub stats](https://github-readme-stats-j68jhicjt-bshore.vercel.app/api?username=bshore&count_private=true&theme=dark&show_icons=true&hide_title=true&hide_rank=true&include_all_commits=true)](https://github.com/bshore/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats-j68jhicjt-bshore.vercel.app/api/top-langs/?username=bshore)](https://github.com/bshore/github-readme-stats)
