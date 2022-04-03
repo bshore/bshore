@@ -15,7 +15,9 @@ My pinned repositories are my most recent (public) pet projects. I get random bu
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img src="https://github-readme-stats-j68jhicjt-bshore.vercel.app/api?username=bshore&count_private=true&theme=dark&show_icons=true&hide_title=true&include_all_commits=true&hide_rank=true" width="350px" />
 </a><br/>
-<i>Note: Languages below are populated from my personal GitHub and should not be interpreted as my <u>only</u> languages.</i>
+
+Note: Languages below are populated from my personal GitHub and should not be interpreted as my <i>only</i> languages.
+
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img src="https://github-readme-stats-j68jhicjt-bshore.vercel.app/api/top-langs/?username=bshore&theme=dark&hide_title=true&layout=compact"/>
 </a>
