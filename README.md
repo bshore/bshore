@@ -2,7 +2,7 @@
 
 Corporate Dev building APIs, CLIs, and UIs on weekdays, moving Kanban tickets from left to right.
 
-In my free time I write code for stuff that interests me. My two most used languages are Golang & Javascript, but I have years of experience with Python, and a little C# and Java.
+In my free time I write code for stuff that interests me. My two most used languages are Golang & Javascript, but I have years of experience with Python, just recently picking up Rust, and a little C# and Java.
 
 My pinned repositories are my most recent (public) pet projects. I get random bursts of inspiration to learn or experiment and it tends to be all over the place.
 
