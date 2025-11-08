@@ -26,6 +26,8 @@ Website that offers code challenges to rank up in a variety of programming langu
   <img src="https://www.codewars.com/users/bshore/badges/large">
 </a>
 
+<!--
 # Merged Contributions
 
 ![Contributions](https://github-contribution-merge.shore7.workers.dev?years=3)
+-->
