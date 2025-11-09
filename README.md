@@ -28,4 +28,4 @@ Website that offers code challenges to rank up in a variety of programming langu
 
 # Merged Contributions
 
-<object data="https://github-contribution-merge.shore7.workers.dev?primary=bshore&years=3" alt="failed to load, please refresh"></object>
+<img src="https://github-contribution-merge.shore7.workers.dev?primary=bshore&years=3" alt="failed to load, please refresh" />
