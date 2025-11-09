@@ -29,5 +29,5 @@ Website that offers code challenges to rank up in a variety of programming langu
 # Merged Contributions
 
 <a href="https://github.com/bshore" target="_blank">
-  <img src="https://github-contribution-merge.shore7.workers.dev?primary=bshore&years=3&users=bshore-bf,p5brandon" alt="failed to load, please refresh" />
+  <img src="https://github-contribution-merge.shore7.workers.dev?years=3&users=bshore-bf,p5brandon" alt="Contributions" />
 </a>
